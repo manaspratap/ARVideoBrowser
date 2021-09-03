@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9064411403839602112
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TransVideo
+  m_Shader: {fileID: -6465566751694194690, guid: f4e471f11b34e4dc68cc3d18f77f3d5a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7D4C5E95:
+        m_Texture: {fileID: 2800000, guid: 3f82f64259a7b43d4a6e09a5fd6e3e52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_90C593C9:
+        m_Texture: {fileID: 2800000, guid: 3f82f64259a7b43d4a6e09a5fd6e3e52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9D2CE969:
+        m_Texture: {fileID: 2800000, guid: 268e7d03ed4b549638e63f663d793a2c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 3f82f64259a7b43d4a6e09a5fd6e3e52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_10C997F6: 0
+    - Vector1_11E1B4BD: 0.1
+    - Vector1_2E92FBD9: 0.16
+    - Vector1_331BE322: 0.015
+    - Vector1_3887A1C5: 2
+    - Vector1_4CD02353: 0.3
+    - Vector1_500BC338: 20
+    - Vector1_84B7BD56: 0.39
+    - Vector1_BC602F84: 0.5
+    - Vector1_C6A189D7: 0.1
+    - Vector1_D174A42F: 0.5
+    - Vector1_D6FE7A65: 0
+    - Vector1_D9CF9051: 5
+    - Vector1_FC6127FB: 0.3
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - Color_288C15B0: {r: 0.3333333, g: 0.9686275, b: 0.3137255, a: 1}
+    - Color_4191095A: {r: 0.3254902, g: 0.937255, b: 0.282353, a: 1}
+    - Color_537D8E1B: {r: 1.5065179, g: 1.5248104, b: 3.8479733, a: 0.9647059}
+    - Color_B321D798: {r: 2.3200743, g: 5.346258, b: 6.489483, a: 0.98039216}
+    - Color_B366020C: {r: 0.3372549, g: 0.9725491, b: 0.2980392, a: 1}
+    - Color_C50E4EF4: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_C4B708C1: {r: 0, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
