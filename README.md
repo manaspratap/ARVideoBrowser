@@ -71,7 +71,7 @@
 
 ## 🏠 About The Project
 
-<p>
+<p align="center">
   <img src="ARVideoBrowser-working.gif" alt="ARVideoBrowser-working" width="150" height="300">
 </p>
 
@@ -122,8 +122,10 @@ Once you have this application running:
 
 Here is a detailed working video of the application:
 
-<a href="https://www.youtube.com/watch?v=MATql-chz2Y" target="_blank"><img src="http://img.youtube.com/vi/MATql-chz2Y/0.jpg" 
-alt="ARVideoBrowser-working" width="400" height="300" border="10" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MATql-chz2Y" target="_blank"><img src="http://img.youtube.com/vi/MATql-chz2Y/0.jpg" 
+  alt="ARVideoBrowser-working" width="400" height="300" border="10" /></a>
+</p>
 
 ## 🗺 Roadmap
 
@@ -142,8 +144,6 @@ Contributions are what make the open source community such an amazing place to l
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<br />
 
 ---
 
