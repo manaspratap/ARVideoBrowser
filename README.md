@@ -69,7 +69,7 @@
   </ol>
 </details>
 
-## About The Project
+## 🏠 About The Project
 
 <p>
   <img src="ARVideoBrowser-working.gif" alt="ARVideoBrowser-working" width="150" height="300">
@@ -89,7 +89,7 @@ ARVideoBrowser-scripts is the other part of this application. It is available [h
 
 Devices running iOS and Android. What it means is that this application can also run on AR glasses based on either iOS or Android, with a minor tweak of connecting the microphone toggle to one of the buttons on the glasses.
 
-## Getting Started
+## 🏃‍♂️ Getting Started
 
 To get a local copy up and running, follow these simple example steps.
 
@@ -107,7 +107,7 @@ Download Unity from [here](https://store.unity.com/download). And if it’s your
 3. Inside Unity, open /Assets/Scenes/main.unity.
 4. Open Build settings and build for either iOS or Android.
 
-## Usage
+## ✨ Usage
 
 Once you have this application running:
 
@@ -125,11 +125,11 @@ Here is a detailed working video of the application:
 <a href="https://www.youtube.com/watch?v=MATql-chz2Y" target="_blank"><img src="http://img.youtube.com/vi/MATql-chz2Y/0.jpg" 
 alt="ARVideoBrowser-working" width="400" height="300" border="10" /></a>
 
-## Roadmap
+## 🗺 Roadmap
 
 See the [open issues](https://github.com/manaspratap/ARVideoBrowser/issues) for a list of proposed features (and known issues).
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -139,6 +139,14 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<br />
+
+---
+
+<br />
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/manaspratap)
