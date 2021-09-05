@@ -1,28 +1,28 @@
 <p align="center">
   <a href="https://github.com/manaspratap/ARVideoBrowser/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/manaspratap/ARVideoBrowser.svg?style=flat"/>
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/manaspratap/ARVideoBrowser.svg?style=for-the-badge"/>
   </a>
   <a href="https://github.com/manaspratap/ARVideoBrowser/network/members">
-    <img alt="Forks" src="https://img.shields.io/github/forks/manaspratap/ARVideoBrowser.svg?style=flat"/>
+    <img alt="Forks" src="https://img.shields.io/github/forks/manaspratap/ARVideoBrowser.svg?style=for-the-badge"/>
   </a>
   <a href="https://github.com/manaspratap/ARVideoBrowser/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/manaspratap/ARVideoBrowser.svg?style=flat"/>
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/manaspratap/ARVideoBrowser.svg?style=for-the-badge"/>
   </a>
   <a href="https://github.com/manaspratap/ARVideoBrowser/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/manaspratap/ARVideoBrowser.svg?style=flat"/>
+    <img alt="Issues" src="https://img.shields.io/github/issues/manaspratap/ARVideoBrowser.svg?style=for-the-badge"/>
   </a>
   <a href="https://github.com/manaspratap/ARVideoBrowser/blob/master/LICENSE.txt">
-    <img alt="MIT License" src="https://img.shields.io/github/license/manaspratap/ARVideoBrowser.svg?style=flat"/>
+    <img alt="MIT License" src="https://img.shields.io/github/license/manaspratap/ARVideoBrowser.svg?style=for-the-badge"/>
   </a>
   <br />
    <a href="https://www.buymeacoffee.com/manaspratap">
-    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
    <a href="https://www.linkedin.com/in/manaspratapthakur">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
    <a href="https://twitter.com/TheManasPratap">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
