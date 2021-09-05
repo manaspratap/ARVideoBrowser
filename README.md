@@ -89,7 +89,7 @@ ARVideoBrowser-scripts is the other part of this application. It is available [h
 
 Devices running iOS and Android. What it means is that this application can also run on AR glasses based on either iOS or Android, with a minor tweak of connecting the microphone toggle to one of the buttons on the glasses.
 
-## 🏃‍♂️ Getting Started
+## 🏃 Getting Started
 
 To get a local copy up and running, follow these simple example steps.
 
